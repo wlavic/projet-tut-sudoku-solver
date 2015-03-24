@@ -1,0 +1,2 @@
+Sudoku solver est un projet tuteuré de fin d'année IUT permettant de générer et de résoudre une grille sudoku 9\*9 avec système d'aide intégré et niveau de difficulté.
+Le langage de programmation utilisé est le C++, utilisant la bibliothèque QT pour l'interface graphique.
